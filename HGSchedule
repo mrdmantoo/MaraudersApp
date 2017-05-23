@@ -1,5 +1,5 @@
-Day1: period1 = Core | period2 = Core | period3 = Core | period4 = Core | period5 = FFS man... | period6 = PE | period7 = Core | period8 = Core | period9 = Core | period10 = Core
+Day1: period1 = Core | period2 = Core | period3 = Core | period4 = Core | period5 = Art | period6 = PE | period7 = Core | period8 = Core | period9 = Core | period10 = Core
 Day2: period1 = Core | period2 = Core | period3 = Core | period4 = Core | period5 = Music | period6 = Music | period7 = PE | period8 = Core | period9 = Core | period10 = Core
 Day3: period1 = Core | period2 = Core | period3 = Art | period4 = Art | period5 = Core | period6 = Core | period7 = PE | period8 = Core | period9 = Core | period10 = Core
-Day4: Day1: period1 = Core | period2 = Core | period3 = Music | period4 = Core | period5 = Core | period6 = Core | period7 = PE | period8 = Core | period9 = Core | period10 = Core
+Day4: period1 = Core | period2 = Core | period3 = Music | period4 = Core | period5 = Core | period6 = Core | period7 = PE | period8 = Core | period9 = Core | period10 = Core
 Day5: period1 = Core | period2 = Core | period3 = Core | period4 = Core | period5 = Core | period6 = Core | period7 = PE | period8 = PE | period9 = Core | period10 = Core
